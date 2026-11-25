@@ -1,5 +1,5 @@
 # 1970 - M468M - $(KGrHqJ,!g4E-+VE(gi,BP25e0nVeg~~60_58.jpg
-Wiki page: [M468M](../../../PAGES/M468M.md)
+Wiki page: [M468M](../../../../PAGES/M468M.md)
 
 
 - **Year:** 1970 (module estimate (family))
@@ -26,7 +26,7 @@ e@ Toa 8088888662
 
 ```json
 {
- "file": "Modules/ROUTING/M468M/1970 - M468M - $(KGrHqJ,!g4E-+VE(gi,BP25e0nVeg~~60_58.jpg",
+ "file": "Modules/ROUTING/M468M/PHOTOS/1970 - M468M - $(KGrHqJ,!g4E-+VE(gi,BP25e0nVeg~~60_58.jpg",
  "sha256": "fc6b70d709987bca039f73d16ac124b918670550946aa91f1e1e8cc10c91bb96",
  "kind": "module",
  "models": [
