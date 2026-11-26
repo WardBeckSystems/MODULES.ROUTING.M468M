@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (141, 17)–(413, 68) mm: ISS MOD [CKD_ · USED ON · MATL. · WBS WARD-BECK sysTeMS LTD · DRN PA · DATE SePr 76 · M468M · FINISH · Assign MoDuLE · SCHEMATIC · CKD. · SCALE · TOLS _ · 468-02 -025 · ISS
 - **Wiring (first pass):** 51 connected wire groups from 326 runs, 3 dotted junctions; labelled ends: 302 mm → Sw8, inpuT, SwA, SwZ; 300 mm → INPUT, RB, 30k; 168 mm → INPUT, Sw/1, Sw3; 163 mm → Rio, 3ok, RIl; 138 mm → SW7, Sw3
 
-Every curve, box, word and wire group: [19xx - M468M - DOC - 468-02-025 - ASSIGN MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M468M%20-%20DOC%20-%20468-02-025%20-%20ASSIGN%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M468M - DOC - 468-02-025 - ASSIGN MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M468M - DOC - 468-02-025 - ASSIGN MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M468M%20-%20DOC%20-%20468-02-025%20-%20ASSIGN%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M468M - DOC - 468-02-025 - ASSIGN MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 
