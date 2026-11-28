@@ -1,6 +1,6 @@
 # M468M Assign Module · Routing
 
-Ward-Beck Systems M468M, 1970|3. Wiki page: [M468M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M468M.html)
+Ward-Beck Systems M468M, 1970|3. Wiki page: [M468M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M468M/)
 
 | Folder | What is in it | Files |
 |---|---|---|

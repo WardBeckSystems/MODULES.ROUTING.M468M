@@ -1,5 +1,5 @@
 # 1970 - M468M - $(KGrHqJ,!g4E-+VE(gi,BP25e0nVeg~~60_58.jpg
-Wiki page: [M468M](../../../../PAGES/M468M.md)
+Wiki page: [M468M](../)
 
 
 - **Year:** 1970 (module estimate (family))
